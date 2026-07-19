@@ -1,0 +1,167 @@
+# ninja log v7
+9	85	1784341143638410962	pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default.dir/compile_time_choice.S.o	676bfb0e1d9dd463
+85	146	1784341143774150289	pico-sdk/src/rp2040/boot_stage2/bs2_default.elf	ebf7379d037c9b65
+85	146	1784341143774150289	pico-sdk/src/rp2040/boot_stage2/bs2_default.dis	ebf7379d037c9b65
+85	146	1784341143774150289	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.dis	ebf7379d037c9b65
+146	167	1784341143795706362	pico-sdk/src/rp2040/boot_stage2/bs2_default.bin	c4c015f40454b1aa
+146	167	1784341143795706362	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin	c4c015f40454b1aa
+167	231	1784341143856336855	pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S	6fedb1e94e7709a
+167	231	1784341143856336855	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S	6fedb1e94e7709a
+232	280	1784341143860943882	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_platform_panic/custom_panic_function.S.o	70daa0589c0b9285
+234	293	1784341143862618115	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_irq/irq_handler_chain.S.o	f77c7cbadac4fe3b
+232	364	1784341143860691128	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_platform_common/common.c.o	37f5433290917528
+233	377	1784341143862221610	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o	5fb83544ff8291c9
+232	379	1784341143860567793	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2040/pico_platform/platform.c.o	d0daf49147831fdd
+232	387	1784341143861212469	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_sync/sync.c.o	148385c952fbef63
+232	396	1784341143861077551	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/common/hardware_claim/claim.c.o	161e337ff0b0311c
+293	401	1784341143922101257	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/common/pico_sync/lock_core.c.o	f491dbb00f26b9dc
+231	411	1784341143860297414	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_stdlib/stdlib.c.o	4add779eabeb2535
+280	428	1784341143908642431	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/common/pico_sync/sem.c.o	6760adae4ac48219
+232	430	1784341143860817589	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_platform_panic/panic.c.o	9a065d198a64a930
+231	491	1784341143860027035	CMakeFiles/WHOAMI.dir/main.c.o	d57843aba0dd9366
+377	505	1784341144005993265	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/common/pico_sync/critical_section.c.o	96690d5f0fec2cb8
+388	509	1784341144016504589	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/common/pico_time/timeout_helper.c.o	a6ede10f442e2fe
+234	511	1784341143862471280	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_irq/irq.c.o	c9152fef82f2054
+412	519	1784341144040464657	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/common/pico_util/fixed_bitset.c.o	66dacf2cab291b53
+364	545	1784341143992899944	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/common/pico_sync/mutex.c.o	c9b9a18446a25cb1
+396	572	1784341144024631503	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_timer/timer.c.o	5011ffad5dd2610e
+401	581	1784341144029665704	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/common/pico_util/datetime.c.o	a7f6c9d6b9e2ff1d
+430	594	1784341144059007602	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/common/pico_util/queue.c.o	8ec0ffa8ff546615
+491	608	1784341144119904807	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_uart/uart.c.o	8c4c9c94b61a9d82
+511	614	1784341144139749479	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_vreg/vreg.c.o	7e02abdffc566bba
+509	623	1784341144137715365	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_pll/pll.c.o	8ca3a3551c9b10d
+545	634	1784341144174148787	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_ticks/ticks.c.o	fa67036fa50aa018
+428	652	1784341144057295868	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/common/pico_util/pheap.c.o	7d7a5cdfa2ab3c3
+232	653	1784341143860443500	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_gpio/gpio.c.o	69da038b3b747afd
+519	673	1784341144147844225	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_watchdog/watchdog.c.o	7e6ab096f231a62d
+506	679	1784341144134470900	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_clocks/clocks.c.o	679d1abc74e468f3
+623	686	1784341144252261791	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_divider/divider.S.o	ccd8362d55ed174d
+581	688	1784341144209780529	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_bootrom/bootrom_lock.c.o	82b42f58950a097
+594	701	1784341144223003852	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_boot_lock/boot_lock.c.o	8f3acd20e07735e4
+572	724	1784341144200504390	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_bootrom/bootrom.c.o	bbecfcd4b2027e05
+608	733	1784341144237024979	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_flash/flash.c.o	d5c19293a42f030b
+688	739	1784341144317429893	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_divider/divider_hardware.S.o	dc2e8f99cb28bcb0
+634	743	1784341144263001827	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_runtime/runtime.c.o	883483b440283a10
+379	751	1784341144007560789	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/common/pico_time/time.c.o	b4f4ab9c7185f516
+615	752	1784341144243494576	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_xosc/xosc.c.o	eff23f5073928fec
+686	756	1784341144314631185	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o	318209fdfdf8a5b3
+702	762	1784341144330632508	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.o	44fd160e784b856c
+673	764	1784341144301712199	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o	5af0359f9d6f9a68
+653	765	1784341144282246782	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o	12541544bfb24b7f
+652	773	1784341144281127849	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_runtime_init/runtime_init.c.o	4b9232d0bf11f7bd
+739	789	1784341144367843982	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o	4a56d708fc0ea2af
+743	791	1784341144372162547	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o	a9a02d48aabb8d8a
+751	804	1784341144380201293	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.o	e80cbd41de3ebf27
+762	809	1784341144391402336	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o	70376559d6e362c6
+765	819	1784341144393538576	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o	e48a680a6068b7d
+809	929	1784341144437911866	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_crt0/crt0.S.o	5a96e0479c776b09
+679	960	1784341144307728956	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_rtc/rtc.c.o	f7c9eccbd33bd795
+791	962	1784341144420205601	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o	44568494c94e40c7
+764	980	1784341144393054985	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_malloc/malloc.c.o	385d4a3b0d0e7bff
+725	1106	1784341144353553768	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.o	d9e5fe17a2134968
+752	1107	1784341144380691258	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.o	2893b3018068b4f1
+930	1114	1784341144558829054	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_clib_interface/cxa_guard.c.o	e7e1a61dfa19528c
+1114	1224	1784341144743161484	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_xip_cache/xip_cache.c.o	e7524dde2982dcb3
+773	1228	1784341144402285374	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_atomic/atomic.c.o	b526c3f0dc8cdc4c
+756	1272	1784341144384557608	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_float/float_math.c.o	40afb067c423669a
+819	1285	1784341144448211979	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_clib_interface/newlib_interface.c.o	d16c37aca2ca1dc5
+981	1296	1784341144609471104	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.o	be8c2ab3ad609838
+961	1303	1784341144589491514	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_stdio/stdio.c.o	83816ccad5ad61fd
+1106	1311	1784341144734646731	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_unique_id/unique_id.c.o	d996143e543626a5
+1107	1314	1784341144736157837	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_flash/flash.c.o	bdafed9cfdff28b7
+734	1361	1784341144362837741	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_double/double_math.c.o	bf8df2653e866c5b
+789	1365	1784341144418152487	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_cxx_options/new_delete.cpp.o	fd3650339a6e1885
+1303	1387	1784341144931593351	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/class/audio/audio_device.c.o	add9416832bf3476
+1314	1396	1784341144943368486	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/class/dfu/dfu_device.c.o	d362c7c7dec51feb
+805	1417	1784341144433519050	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_printf/printf.c.o	431596d224d89b0b
+1361	1453	1784341144990020810	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.o	dc91d3b5a127eca7
+1366	1460	1784341144994461127	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/class/hid/hid_device.c.o	a9e600234b929fe6
+962	1460	1784341144590893410	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.o	9865976cd3a87e79
+1388	1473	1784341145016504874	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/class/midi/midi_device.c.o	8cfe76780678c699
+1272	1489	1784341144900633053	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.o	d57f9b422b1a2706
+1225	1490	1784341144854006354	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_usb_reset/usb_reset.c.o	b6bb7bf633832b6
+1418	1497	1784341145047028790	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.o	9fcb06e5523dbf99
+1396	1506	1784341145024897416	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/class/msc/msc_device.c.o	de7cb68b09b1a85a
+1297	1511	1784341144925796180	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/device/usbd_control.c.o	5af40e00d3a2e135
+1453	1523	1784341145081637017	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/class/net/ncm_device.c.o	c88f6689a33305b8
+1460	1551	1784341145088770082	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.o	9643349ff6517244
+1524	1551	1784341145152639081	pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o	f382b3ef9a1009a9
+1460	1563	1784341145089267631	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/class/vendor/vendor_device.c.o	5759b23ebb47ba48
+1473	1568	1784341145102196825	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/class/video/video_device.c.o	d41ed197b29327c1
+1497	1578	1784341145125763054	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.o	e4d149235088e490
+1228	1600	1784341144857436822	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.o	824cc8ece7b88e90
+1311	1607	1784341144940157937	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/class/cdc/cdc_device.c.o	74f7aa2cf3f1c5ac
+1506	1617	1784341145134791439	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/pico_thread_local/thread_local.c.o	4ea25489fdc9fa2d
+1511	1646	1784341145139770597	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/src/rp2_common/hardware_i2c/i2c.c.o	38d0882d393fd902
+1285	1656	1784341144913986628	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/device/usbd.c.o	84af86d2b40bc70
+1490	1668	1784341145118967993	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/common/tusb_fifo.c.o	b15cab9898bae1ee
+1490	1669	1784341145118548737	CMakeFiles/WHOAMI.dir/Users/ethan_chou/.pico-sdk/sdk/2.3.0/lib/tinyusb/src/tusb.c.o	bf62ca8c4f7f941e
+1669	1764	1784341145392118505	WHOAMI.elf	72c6d44db1042d32
+1669	1764	1784341145392118505	WHOAMI.dis	72c6d44db1042d32
+1669	1764	1784341145392118505	WHOAMI.hex	72c6d44db1042d32
+1669	1764	1784341145392118505	WHOAMI.bin	72c6d44db1042d32
+1669	1764	1784341145392118505	WHOAMI.uf2	72c6d44db1042d32
+1669	1764	1784341145392118505	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.dis	72c6d44db1042d32
+1669	1764	1784341145392118505	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.hex	72c6d44db1042d32
+1669	1764	1784341145392118505	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.bin	72c6d44db1042d32
+1669	1764	1784341145392118505	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.uf2	72c6d44db1042d32
+6	160	1784341478908427442	CMakeFiles/WHOAMI.dir/main.c.o	d57843aba0dd9366
+160	278	1784341479178345905	WHOAMI.elf	72c6d44db1042d32
+160	278	1784341479178345905	WHOAMI.dis	72c6d44db1042d32
+160	278	1784341479178345905	WHOAMI.hex	72c6d44db1042d32
+160	278	1784341479178345905	WHOAMI.bin	72c6d44db1042d32
+160	278	1784341479178345905	WHOAMI.uf2	72c6d44db1042d32
+160	278	1784341479178345905	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.dis	72c6d44db1042d32
+160	278	1784341479178345905	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.hex	72c6d44db1042d32
+160	278	1784341479178345905	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.bin	72c6d44db1042d32
+160	278	1784341479178345905	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.uf2	72c6d44db1042d32
+6	172	1784341579265452784	CMakeFiles/WHOAMI.dir/main.c.o	d57843aba0dd9366
+172	286	1784341579544119461	WHOAMI.elf	72c6d44db1042d32
+172	286	1784341579544119461	WHOAMI.dis	72c6d44db1042d32
+172	286	1784341579544119461	WHOAMI.hex	72c6d44db1042d32
+172	286	1784341579544119461	WHOAMI.bin	72c6d44db1042d32
+172	286	1784341579544119461	WHOAMI.uf2	72c6d44db1042d32
+172	286	1784341579544119461	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.dis	72c6d44db1042d32
+172	286	1784341579544119461	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.hex	72c6d44db1042d32
+172	286	1784341579544119461	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.bin	72c6d44db1042d32
+172	286	1784341579544119461	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.uf2	72c6d44db1042d32
+6	130	1784342097606342813	CMakeFiles/WHOAMI.dir/main.c.o	d57843aba0dd9366
+130	241	1784342097840427072	WHOAMI.elf	72c6d44db1042d32
+130	241	1784342097840427072	WHOAMI.dis	72c6d44db1042d32
+130	241	1784342097840427072	WHOAMI.hex	72c6d44db1042d32
+130	241	1784342097840427072	WHOAMI.bin	72c6d44db1042d32
+130	241	1784342097840427072	WHOAMI.uf2	72c6d44db1042d32
+130	241	1784342097840427072	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.dis	72c6d44db1042d32
+130	241	1784342097840427072	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.hex	72c6d44db1042d32
+130	241	1784342097840427072	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.bin	72c6d44db1042d32
+130	241	1784342097840427072	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.uf2	72c6d44db1042d32
+31	236	1784358166408203562	CMakeFiles/WHOAMI.dir/main.c.o	d57843aba0dd9366
+236	445	1784358166821710987	WHOAMI.elf	72c6d44db1042d32
+236	445	1784358166821710987	WHOAMI.dis	72c6d44db1042d32
+236	445	1784358166821710987	WHOAMI.hex	72c6d44db1042d32
+236	445	1784358166821710987	WHOAMI.bin	72c6d44db1042d32
+236	445	1784358166821710987	WHOAMI.uf2	72c6d44db1042d32
+236	445	1784358166821710987	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.dis	72c6d44db1042d32
+236	445	1784358166821710987	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.hex	72c6d44db1042d32
+236	445	1784358166821710987	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.bin	72c6d44db1042d32
+236	445	1784358166821710987	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.uf2	72c6d44db1042d32
+29	263	1784438333856481241	CMakeFiles/WHOAMI.dir/main.c.o	d57843aba0dd9366
+263	501	1784438334327287990	WHOAMI.elf	72c6d44db1042d32
+263	501	1784438334327287990	WHOAMI.dis	72c6d44db1042d32
+263	501	1784438334327287990	WHOAMI.hex	72c6d44db1042d32
+263	501	1784438334327287990	WHOAMI.bin	72c6d44db1042d32
+263	501	1784438334327287990	WHOAMI.uf2	72c6d44db1042d32
+263	501	1784438334327287990	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.dis	72c6d44db1042d32
+263	501	1784438334327287990	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.hex	72c6d44db1042d32
+263	501	1784438334327287990	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.bin	72c6d44db1042d32
+263	501	1784438334327287990	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.uf2	72c6d44db1042d32
+7	171	1784438852984636049	CMakeFiles/WHOAMI.dir/main.c.o	d57843aba0dd9366
+171	298	1784438853274218486	WHOAMI.elf	72c6d44db1042d32
+171	298	1784438853274218486	WHOAMI.dis	72c6d44db1042d32
+171	298	1784438853274218486	WHOAMI.hex	72c6d44db1042d32
+171	298	1784438853274218486	WHOAMI.bin	72c6d44db1042d32
+171	298	1784438853274218486	WHOAMI.uf2	72c6d44db1042d32
+171	298	1784438853274218486	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.dis	72c6d44db1042d32
+171	298	1784438853274218486	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.hex	72c6d44db1042d32
+171	298	1784438853274218486	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.bin	72c6d44db1042d32
+171	298	1784438853274218486	/Users/ethan_chou/Documents/summer program/pico-projects/WHOAMI/build/WHOAMI.uf2	72c6d44db1042d32
